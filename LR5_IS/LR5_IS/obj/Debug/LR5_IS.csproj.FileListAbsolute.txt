@@ -1,0 +1,8 @@
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\bin\Debug\LR5_IS.exe.config
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\bin\Debug\LR5_IS.exe
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\bin\Debug\LR5_IS.pdb
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\obj\Debug\LR5_IS.csproj.AssemblyReference.cache
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\obj\Debug\LR5_IS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\obj\Debug\LR5_IS.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\obj\Debug\LR5_IS.exe
+C:\Users\Nikita\Downloads\LR5_IS\LR5_IS\obj\Debug\LR5_IS.pdb
